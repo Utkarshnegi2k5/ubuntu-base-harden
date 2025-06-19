@@ -66,7 +66,7 @@ The script performs the following tasks:
 
 ```bash
 # Clone the repo
-	git clone https://github.com/your-username/linux-base-harden.git
+	git clone https://github.com/Utkarshnegi2k5/ubuntu-base-harden.git
 	cd linux-base-harden
 
 # Run the hardening script
