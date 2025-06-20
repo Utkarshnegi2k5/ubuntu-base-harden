@@ -70,8 +70,8 @@ The script performs the following tasks:
 	cd ubuntu-base-harden
 
 # Run the hardening script
-	chmod +x base-harden.sh
-	sudo ./base-harden.sh
+	chmod +x Base-harden.sh
+	sudo ./Base-harden.sh
 ```
 
 After execution, view the Lynis report:
