@@ -108,3 +108,12 @@ Feel free to fork and submit pull requests to enhance this script for various sc
 ## ⚠️ Disclaimer
 
 This script performs **security-sensitive changes**. It is intended for VMs and servers under your control. Please test thoroughly before using in production.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+For user who want to directly need the box they can use these command to setup
+	vagrant box add secure-ubuntu https://drive.google.com/uc?export=download&id=1z3OTiKOJaFGdvR5hj0VT9qzbf6VcoPhd
+	vagrant init secure-ubuntu
+	vagrant up
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
